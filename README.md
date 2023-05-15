@@ -13,7 +13,7 @@ This utility allows you to easily switch between two different clients for playi
 
 ### Usage
 
-1. Double-click on the `clientswitcher.cmd` file found in the code section to run the script.
+1. Download and run the `clientswitcher.cmd` file found in the code section to run the script.
 2. Enter the client you want to switch to when prompted (either "hdos" or "runelite").
 3. The script will automatically copy the required files to the app data folder for RuneLite and rename them accordingly.
 4. The `client.txt` file in the RuneLite app data folder will be updated with the name of the currently running client.
