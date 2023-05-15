@@ -11,9 +11,9 @@ This repository provides a tool for OSRS players to switch between multiple clie
 ## Instructions
 
 1. Download the repository to your computer.
-2. Open the repository directory and run the 'ClientSwitcher.bat' file.
+2. Open the repository directory and run the 'ClientSwitcher.cmd' file.
 3. Select the client that you want to run from the pop-up window by typing the corresponding number for the client. 
-4. Click 'Run Client' button to launch the respective client.
+4. open jagex launcher and select runelite depending on your selected client it should run runelite or hdos.
 
 ## Issues & Troubleshooting
 
