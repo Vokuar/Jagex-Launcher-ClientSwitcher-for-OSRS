@@ -1,6 +1,6 @@
 # OSRS Client Switcher for Jagex Launcher
 
-This repository provides a tool for OSRS players to switch between multiple clients within the Jagex launcher. It allows users to quickly and easily select and launch different clients, including RuneLite, HDOS, and potentially other third-party clients. The repository enhances the Jagex launcher and makes it easier for players to access their preferred client without having to manually switch between different installations.
+This repository provides a tool for OSRS players to switch between multiple clients within the Jagex launcher. It allows users to quickly and easily select and launch different clients, including RuneLite and HDOS. The repository enhances the Jagex launcher and makes it easier for players to access their preferred client without having to manually switch between different installations.
 
 ## System Requirements
 
