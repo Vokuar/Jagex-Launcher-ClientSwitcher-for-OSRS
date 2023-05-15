@@ -40,9 +40,9 @@ If you encounter any issues with the utility, please refer to the following trou
 
 Contributions to the Client Switcher utility are welcome. If you want to contribute to the project, please fork the repository and make a pull request with your changes. 
 
-# ### License
+### License
 
-# The Client Switcher utility is released under the [MIT License](https://github.com/Vokuar/Jagex-Launcher-ClientSwitcher-for-OSRS/blob/main/LICENSE).
+The Client Switcher utility is released under the [MIT License](https://github.com/Vokuar/Jagex-Launcher-ClientSwitcher-for-OSRS/blob/main/LICENSE).
 
 ### Conclusion
 
